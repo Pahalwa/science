@@ -1,0 +1,17 @@
+h1{
+    color:whitesmoke;
+    text-align: center;
+    background-color: black;
+}
+ol li{
+    list-style: none;
+}
+ol li a{
+    text-decoration: none;
+    color: black;
+    size: 2em;
+}
+ol li a:hover{
+    color: red;
+    size:3em;
+}
